@@ -1,2 +1,2 @@
-# Class-24
-Angry Birds game_object Classes
+# angryBirdsStage1
+Stage 1 Angry Birds
